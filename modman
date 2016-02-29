@@ -2,6 +2,8 @@
 app/code/community/Dolphin/Slideshow    app/code/community/Dolphin/Slideshow
 app/design/adminhtml/default/default/layout/slideshow.xml    app/design/adminhtml/default/default/layout/slideshow.xml
 app/design/frontend/default/default/template/slideshow    app/design/frontend/default/default/template/slideshow
+app/design/frontend/rwd/default/template/slideshow    app/design/frontend/rwd/default/template/slideshow
 app/etc/modules/Dolphin_Slideshow.xml    app/etc/modules/Dolphin_Slideshow.xml
 js/slideshow js/slideshow
 skin/frontend/default/default/slideshow    skin/frontend/default/default/slideshow
+skin/frontend/rwd/default/slideshow    skin/frontend/rwd/default/slideshow
